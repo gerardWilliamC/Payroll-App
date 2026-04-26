@@ -17,9 +17,9 @@ Option 2: If Already Extracted
 
 If you have already extracted the files, you must manually unblock the .resx files within the project folder. Right-click → Properties → Unblock for the following:
 
-Form1.resx
+    Form1.resx
 
-Form2.resx
+    Form2.resx
 
 Tip: You can also unblock all files at once by opening PowerShell in the project folder and running:
 
