@@ -7,11 +7,11 @@ Since this project was developed in a macOS environment (via VM), Windows may au
 
 Option 1: Before Extracting (Recommended)
 
-Right-click the downloaded .zip file.
+    Right-click the downloaded .zip file.
 
-Select Properties.
+    Select Properties.
 
-Check the Unblock checkbox at the bottom and click Apply.
+    Check the Unblock checkbox at the bottom and click Apply.
 
 Option 2: If Already Extracted
 
