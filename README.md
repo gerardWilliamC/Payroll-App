@@ -21,9 +21,9 @@ If you have already extracted the files, you must manually unblock the .resx fil
 
     Form2.resx
 
-Tip: You can also unblock all files at once by opening PowerShell in the project folder and running:
+    Tip: You can also unblock all files at once by opening PowerShell in the project folder and running:
 
-Get-ChildItem -Recurse | Unblock-File
+    Get-ChildItem -Recurse | Unblock-File
 
 :
 
